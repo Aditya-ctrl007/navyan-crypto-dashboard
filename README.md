@@ -54,4 +54,4 @@ navyan_project3/
 ## Submission
 
 - **GitHub:** https://github.com/Aditya-ctrl007/navyan-crypto-dashboard
-- **Live Dashboard:** https://aditya-crypto-dashboard.netlify.app
+- **Live Dashboard:** https://navyan-crypto-dashboard-smucruuxnintysw52wxzq2.streamlit.app/
